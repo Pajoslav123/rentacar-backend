@@ -17,7 +17,7 @@ router.post('/', async(req, res) => {
 });
 //router post for registering a user with username password and email and favorite car
 
-
+// post user to mongodb database 
 
 
 
